@@ -1,4 +1,3 @@
-# PingPong
 # RabbitMQ Messaging System
 
 ## 1. Introduction
