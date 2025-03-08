@@ -77,12 +77,5 @@ The nodes will start exchanging **PING** and **PONG** messages automatically.
 ---
 
 ## 4. Additional Information
-Ensure RabbitMQ is running locally before starting the scripts:
-```bash
-brew services start rabbitmq
-```
-To stop the RabbitMQ service:
-```bash
-brew services stop rabbitmq
-```
+Ensure RabbitMQ is running locally before starting the scripts.
 
